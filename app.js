@@ -99,7 +99,7 @@ function menuPadoca() {
       Escolha uma das opções para interagir com o sistema:
       1 - Cadastrar um produto
       2 - Listar todos os produtos
-      3 - ediatr Produtos
+      3 - editar Produtos
       4 - Remover Produtos`);
   
 
